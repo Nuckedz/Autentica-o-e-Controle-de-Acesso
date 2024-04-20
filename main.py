@@ -1,3 +1,6 @@
+#VINICIUS YUDI 
+#JOAO TANCON
+
 import json
 import getpass
 
