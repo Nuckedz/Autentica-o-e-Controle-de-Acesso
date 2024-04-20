@@ -1,15 +1,17 @@
 {
-    "vinicius": {
-      "ler": ["arquivo1", "arquivo2"],
-      "escrever": ["arquivo1"],
-      "apagar": ["arquivo2"],
-      "criar": ["arquivo1"]
-    },
-    "joao": {
-      "ler": ["arquivo2"],
-      "escrever": ["arquivo2"],
-      "apagar": ["arquivo1"],
-      "criar": ["arquivo3"]
-    }
-}
+  "vinicius": {
+  "ler": ["regex.js", "main.py", "pagina.html", "criptografia.py", "senhas.py"], 
+  "escrever": ["main.py", "senhas.py", "criptografia.py"],
+  "apagar": ["senhas.py"], 
+  "criar": ["senhas.py", "criptografia.py"]
   
+},
+
+  "joao": {
+  "ler": ["regex.js", "pagina.html", "style.css"],
+  "escrever": ["regex.js", "pagina.html", "style.css"], 
+  "apagar": ["regex.js", "pagina.html", "style.css"], 
+  "criar": ["texto1.txt", "texto2.txt"]
+
+}
+}
