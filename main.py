@@ -45,7 +45,7 @@ def criar_usuario(usuarios, permissoes, username, password):
     if username not in usuarios:
         usuarios[username] = password
         permissoes[username] = {'ler': [], 'escrever': [], 'apagar': [], 'criar': []}
-        permissoes[username]['criar'].append(username)  # Permite que o usuário crie arquivos com seu próprio nome
+        permissoes[username]['criar'].append(username) 
         salvar_usuarios(usuarios)
         salvar_permissoes(permissoes)
         return True
