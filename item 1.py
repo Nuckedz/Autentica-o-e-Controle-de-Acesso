@@ -1,3 +1,6 @@
+#VINICIUS YUDI
+#DIRCEU CHELIGA
+
 import hashlib
 import json
 import os
@@ -73,3 +76,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#VINICIUS YUDI
+#DIRCEU CHELIGA
