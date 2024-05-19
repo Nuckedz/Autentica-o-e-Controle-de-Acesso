@@ -11,7 +11,6 @@ import time
 
 JSON_NAME = 'usuarios.json'
 
-# Carregar os usuários do arquivo
 def carregar_usuarios():
     with open(JSON_NAME, 'r') as file:
         return json.load(file)

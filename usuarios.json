@@ -1,6 +1,18 @@
 {
-    "yudi": "dcc06ed15d7a9fec1f7e959979b285bc3b46ba3ed9d820ed196578802f831d7a",
-    "dirr": "e57912555051eb2553f39d16d4d31e1bd3622b939785e7c621a8cd90ef86f0c0",
-    "jose": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
-    "anao": "ab13a2aeaff257557e3e349bb70630ea61a7dd5e00bc3c185a7a60af10f3a782"
+    "yudi": {
+        "salt": "dv6Vt3yjiKkHf4hj",
+        "hash": "d110279890a2063ac724a929c0bbf5d1560c0aed020f976ec3d2ab94d56501cd"
+    },
+    "dirr": {
+        "salt": "NMe53WlDI3MJpee5",
+        "hash": "760ab87dd7810610a4b8a5e6407ea5cb5f370e64b0fb0290cae00bc1cb486649"
+    },
+    "jose": {
+        "salt": "3DjFCLAWze6sXHZv",
+        "hash": "54c495daf6b5f831a9d0da772c85e454257ba3818edfa435796efd84dddf7b78"
+    },
+    "alan": {
+        "salt": "iSmh29pukszQBLrt",
+        "hash": "4e2ac758b9ceb12424ec732076d6134d61dd8c24375f74a02181a442bde29b7b"
+    }
 }
